@@ -25,7 +25,7 @@
     "url": "https://github.com/NotNinja/convert-svg.git"
   },
   "dependencies": {
-    "convert-svg-core": "^0.3.1"
+    "convert-svg-core": "jeremyblalock/convert-svg-core"
   },
   "devDependencies": {
     "chai": "^4.1.2",
